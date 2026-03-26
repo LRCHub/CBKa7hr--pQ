@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "遠い記憶",
+  "base_artist": "椎名恵",
+  "createdAt": "2026-03-26T19:21:01.061927Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "遠い記憶",
+      "artist": "椎名 恵",
+      "has_synced": true,
+      "path": "select/01_遠い記憶_椎名_恵.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tooi Kioku [遠い記憶]",
+      "artist": "Megumi Shiina",
+      "has_synced": true,
+      "path": "select/02_Tooi_Kioku_[遠い記憶]_Megumi_Shiina.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "遠い記憶",
+      "artist": "石濱翔(MONACA)",
+      "has_synced": false,
+      "path": "select/03_遠い記憶_石濱翔(MONACA).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "遠い記憶",
+      "artist": "椎名恵",
+      "has_synced": true,
+      "path": "select/04_遠い記憶_椎名恵.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "遠い記憶",
+      "artist": "w-inds.",
+      "has_synced": false,
+      "path": "select/05_遠い記憶_w-inds..txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "遠い記憶",
+      "artist": "Megumi Shiina",
+      "has_synced": true,
+      "path": "select/06_遠い記憶_Megumi_Shiina.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "遠い記憶",
+      "artist": "白津 順子",
+      "has_synced": false,
+      "path": "select/07_遠い記憶_白津_順子.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "遠い記憶",
+      "artist": "椎名 恵",
+      "has_synced": false,
+      "path": "select/pl_01_遠い記憶_椎名_恵.txt"
+    }
+  ]
+}
